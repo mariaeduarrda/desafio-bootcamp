@@ -1,0 +1,7 @@
+Git e Github 
+O comando básico usado para listar no Windows é "dir"
+No Linux é ls
+cd - mudar diretório
+dir - listar arquivos
+mkdir - criar diretórios 
+del / rmdir - deletar diretórios 
